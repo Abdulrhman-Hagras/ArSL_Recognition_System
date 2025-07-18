@@ -4,7 +4,7 @@ This is my graduation project — a real-time Arabic Sign Language recognition s
 
 ## Features
 - Real-time sign detection using MediaPipe
-- CNN-based classification (96.5% accuracy)
+- classification (97.41% accuracy)
 - Trained on a custom ArSL dataset
 
 ## Technologies
